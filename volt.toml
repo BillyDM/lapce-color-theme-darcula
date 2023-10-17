@@ -1,7 +1,7 @@
 name = "darcula"
 display-name = "Darcula"
 description = "Darcula color theme"
-version = "0.1.0"
+version = "0.2.0"
 author = "BillyDM"
 icon = "icon.svg"
 repository = "https://github.com/BillyDM/lapce-color-theme-darcula"
